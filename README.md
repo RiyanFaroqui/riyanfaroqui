@@ -3,7 +3,7 @@
   <img src="intro.gif" alt="welcome to riyan's github!" />
 </p>
 
-# 👋 h𝚎𝚢 𝚝𝚑𝚎𝚛𝚎! w𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 g𝚒𝚝h𝚞𝚋
+# 👋 𝚑𝚒 𝚝𝚑𝚎𝚛𝚎!
 
 𝚒'𝚖 𝚛𝚒𝚢𝚊𝚗, 𝚊 𝚙𝚊𝚜𝚜𝚒𝚘𝚗𝚊𝚝𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛, 𝚝𝚎𝚌𝚑 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝, 𝚊𝚗𝚍 𝚕𝚒𝚏𝚎𝚕𝚘𝚗𝚐 𝚕𝚎𝚊𝚛𝚗𝚎𝚛. 𝚒 𝚕𝚘𝚟𝚎 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚘𝚘𝚕 𝚝𝚑𝚒𝚗𝚐𝚜, 𝚜𝚘𝚕𝚟𝚒𝚗𝚐 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚒𝚗𝚐 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚜, 𝚊𝚗𝚍 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚗𝚐 🚀.
 
@@ -17,7 +17,9 @@
 
 ## 🔗 c𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎!
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyan-faroqui/)
+<a href="https://www.linkedin.com/in/riyan-faroqui/" target="_blank">
+  <img src="linkedin.png" alt="linkedin" height="40" />
+</a>
 
 <!-- Add more links as needed -->
 <!-- - [Portfolio](https://yourportfolio.com) -->
